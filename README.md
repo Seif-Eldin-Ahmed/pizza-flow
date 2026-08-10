@@ -8,7 +8,7 @@ The application allows customers to browse a wide variety of pizzas, add their f
 
 ## 🚀 Live Demo
 
-[View Live Demo](#)
+[View Live Demo](https://fast-react-pizza-v-app.vercel.app/)
 
 ---
 
