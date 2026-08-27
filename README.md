@@ -1,4 +1,4 @@
-# 🍕 Fast React Pizza
+# 🍕 PizzaFlow — Online Pizza Ordering App
 
 A modern and responsive pizza ordering web application built with React and Vite.
 
